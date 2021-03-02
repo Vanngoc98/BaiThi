@@ -1,0 +1,10 @@
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\bin\Debug\QuanLyBangDia.exe.config
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\bin\Debug\QuanLyBangDia.exe
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\bin\Debug\QuanLyBangDia.pdb
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.csprojAssemblyReference.cache
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.Form1.resources
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.Properties.Resources.resources
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.csproj.GenerateResource.cache
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.csproj.CoreCompileInputs.cache
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.exe
+C:\Users\An Phat\source\repos\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.pdb
