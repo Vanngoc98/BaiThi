@@ -1,0 +1,45 @@
+D:\Chánh\QLBDia\QLBDia\bin\Debug\QLBDia.exe.config
+D:\Chánh\QLBDia\QLBDia\bin\Debug\QLBDia.exe
+D:\Chánh\QLBDia\QLBDia\bin\Debug\QLBDia.pdb
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.csprojAssemblyReference.cache
+D:\Chánh\QLBDia\QLBDia\obj\Debug\MainWindow.g.cs
+D:\Chánh\QLBDia\QLBDia\obj\Debug\App.g.cs
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia_MarkupCompile.cache
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia_MarkupCompile.lref
+D:\Chánh\QLBDia\QLBDia\obj\Debug\MainWindow.baml
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.g.resources
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.Properties.Resources.resources
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.csproj.GenerateResource.cache
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.csproj.CoreCompileInputs.cache
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.exe
+D:\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.pdb
+C:\temp\Chánh\QLBDia\QLBDia\bin\Debug\QLBDia.exe.config
+C:\temp\Chánh\QLBDia\QLBDia\bin\Debug\QLBDia.exe
+C:\temp\Chánh\QLBDia\QLBDia\bin\Debug\QLBDia.pdb
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.csprojAssemblyReference.cache
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\MainWindow.g.cs
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\App.g.cs
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia_MarkupCompile.cache
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia_MarkupCompile.lref
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\MainWindow.baml
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.g.resources
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.Properties.Resources.resources
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.csproj.GenerateResource.cache
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.csproj.CoreCompileInputs.cache
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.exe
+C:\temp\Chánh\QLBDia\QLBDia\obj\Debug\QLBDia.pdb
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\bin\Debug\QLBDia.exe.config
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\bin\Debug\QLBDia.exe
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\bin\Debug\QLBDia.pdb
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia.csprojAssemblyReference.cache
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\MainWindow.g.cs
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\App.g.cs
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia_MarkupCompile.cache
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia_MarkupCompile.lref
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\MainWindow.baml
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia.g.resources
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia.Properties.Resources.resources
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia.csproj.GenerateResource.cache
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia.exe
+D:\Tài Liệu\thitotnghiep\QLBDia\QLBDia\obj\Debug\QLBDia.pdb
